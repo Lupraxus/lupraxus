@@ -1,0 +1,19 @@
+---
+# markdownlint — README HTML tables and footer
+default: true
+
+MD003:
+  style: atx
+
+MD013:
+  line_length: 240
+  code_block_line_length: 400
+  tables: false
+  headings: true
+
+MD033: false
+
+MD041: false
+
+MD060:
+  style: aligned
