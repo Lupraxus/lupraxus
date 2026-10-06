@@ -1,7 +1,5 @@
 <h1 align="center">Lupraxus - Leader of the Digital Pack</h1>
 
-<p align="center">Lupraxus walks the line between instinct and architecture. He is a digital lone wolf who builds tools that outlast the hunters and outsmart the storm.</p>
-
 <p align="center"><em>The strongest systems are those that never need to howl.</em></p>
 
 ## About Lupraxus
@@ -30,11 +28,9 @@ He leads without hierarchy, not with titles or authority, but through craft. Oth
   </tr>
 </table>
 
-In the network’s shadows, he watches over the pack, and he makes sure every open-source tool he releases is hardened, honest, and ready for the real world.
+In the network’s shadows, he watches over the pack, and he makes sure every open-source tool [The Lupaxa Project](https://thelupaxaproject.org) releases is hardened, honest, and ready for the real world.
 
 ## The Lupaxa Project
-
-The organisations he founded, and the tools that live in them.
 
 <table>
   <tr>
