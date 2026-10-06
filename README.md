@@ -62,14 +62,14 @@ The organisations he founded, and the tools that live in them.
 <br />API Extractor Toolbox
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top">
 <a href="https://github.com/lupaxa-aws-toolbox">
 <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/aws-toolbox/logos/logo-128.png" alt="" />
 <br />AWS Toolbox
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top">
 <a href="https://github.com/lupaxa-cicd-toolbox">
 <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/cicd-toolbox/logos/logo-128.png" alt="" />
@@ -88,6 +88,8 @@ The organisations he founded, and the tools that live in them.
 <br />Developers Toolbox
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top">
 <a href="https://github.com/lupaxa-docker-toolbox">
 <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/docker-toolbox/logos/logo-128.png" alt="" />
@@ -100,8 +102,6 @@ The organisations he founded, and the tools that live in them.
 <br />Git Hooks Toolbox
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top">
 <a href="https://github.com/lupaxa-git-toolbox">
 <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/git-toolbox/logos/logo-128.png" alt="" />
@@ -114,6 +114,8 @@ The organisations he founded, and the tools that live in them.
 <br />GitHub Toolbox
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top">
 <a href="https://github.com/lupaxa-miscellaneous-toolbox">
 <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/miscellaneous-toolbox/logos/logo-128.png" alt="" />
@@ -132,14 +134,14 @@ The organisations he founded, and the tools that live in them.
 <br />Notifications Toolbox
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top">
 <a href="https://github.com/lupaxa-security-toolbox">
 <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/security-toolbox/logos/logo-128.png" alt="" />
 <br />Security Toolbox
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top">
 <a href="https://github.com/lupaxa-spider-toolbox">
 <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/spider-toolbox/logos/logo-128.png" alt="" />
