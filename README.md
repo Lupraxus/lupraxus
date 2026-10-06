@@ -199,10 +199,10 @@ The organisations he founded, and the tools that live in them.
 <details>
 <summary>What Each Organisation Does</summary>
 
-<table>
+<table width="100%" align="center">
   <tr>
-    <th align="left" valign="bottom">Organisation</th>
-    <th align="left" valign="bottom">Description</th>
+    <th align="left" valign="bottom" width="32%">Organisation</th>
+    <th align="left" valign="bottom" width="68%">Description</th>
   </tr>
   <tr>
     <td valign="top"><strong>Actions Toolbox</strong></td>
