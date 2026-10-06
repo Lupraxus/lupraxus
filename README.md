@@ -32,164 +32,161 @@ He leads without hierarchy, not with titles or authority, but through craft. Oth
 
 In the network’s shadows, he watches over the pack, and he makes sure every open-source tool he releases is hardened, honest, and ready for the real world.
 
-
 ## The Lupaxa Project
 
 The organisations he founded, and the tools that live in them.
 
 <table>
 <tr>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-actions-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/actions-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/actions-toolbox/logos/logo-128.png" alt="" />
 <br />Actions Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-after-hours">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/after-hours/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/after-hours/logos/logo-128.png" alt="" />
 <br />After Hours
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-ai-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/ai-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/ai-toolbox/logos/logo-128.png" alt="" />
 <br />AI Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-api-extractor-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/api-extractor-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/api-extractor-toolbox/logos/logo-128.png" alt="" />
 <br />API Extractor Toolbox
 </a>
 </td>
-</tr>
-<tr>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-aws-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/aws-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/aws-toolbox/logos/logo-128.png" alt="" />
 <br />AWS Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+</tr>
+<tr>
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-cicd-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/cicd-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/cicd-toolbox/logos/logo-128.png" alt="" />
 <br />CI/CD Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-database-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/database-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/database-toolbox/logos/logo-128.png" alt="" />
 <br />Database Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-developers-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/developers-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/developers-toolbox/logos/logo-128.png" alt="" />
 <br />Developers Toolbox
 </a>
 </td>
-</tr>
-<tr>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-docker-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/docker-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/docker-toolbox/logos/logo-128.png" alt="" />
 <br />Docker Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-git-hooks-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/git-hooks-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/git-hooks-toolbox/logos/logo-128.png" alt="" />
 <br />Git Hooks Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+</tr>
+<tr>
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-git-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/git-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/git-toolbox/logos/logo-128.png" alt="" />
 <br />Git Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-gh-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/gh-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/gh-toolbox/logos/logo-128.png" alt="" />
 <br />GitHub Toolbox
 </a>
 </td>
-</tr>
-<tr>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-miscellaneous-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/miscellaneous-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/miscellaneous-toolbox/logos/logo-128.png" alt="" />
 <br />Miscellaneous Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-monitoring-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/monitoring-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/monitoring-toolbox/logos/logo-128.png" alt="" />
 <br />Monitoring Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-notifications-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/notifications-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/notifications-toolbox/logos/logo-128.png" alt="" />
 <br />Notifications Toolbox
-</a>
-</td>
-<td align="center" valign="top" width="25%">
-<a href="https://github.com/lupaxa-security-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/security-toolbox/logos/logo-128.png" alt="" width="96" />
-<br />Security Toolbox
 </a>
 </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
+<a href="https://github.com/lupaxa-security-toolbox">
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/security-toolbox/logos/logo-128.png" alt="" />
+<br />Security Toolbox
+</a>
+</td>
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-spider-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/spider-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/spider-toolbox/logos/logo-128.png" alt="" />
 <br />Spider Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-sre-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/sre-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/sre-toolbox/logos/logo-128.png" alt="" />
 <br />SRE Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/lupaxa-workstation-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/workstation-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/workstation-toolbox/logos/logo-128.png" alt="" />
 <br />Workstation Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/the-lupaxa-blueprints">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-blueprints/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-blueprints/logos/logo-128.png" alt="" />
 <br />The Lupaxa Blueprints
 </a>
 </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/the-lupaxa-internal-toolbox">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-internal-toolbox/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-internal-toolbox/logos/logo-128.png" alt="" />
 <br />The Lupaxa Internal Toolbox
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/the-lupaxa-lab">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-lab/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-lab/logos/logo-128.png" alt="" />
 <br />The Lupaxa Lab
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/the-lupaxa-project">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-project/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-project/logos/logo-128.png" alt="" />
 <br />The Lupaxa Project
 </a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top">
 <a href="https://github.com/the-lupaxa-project-private">
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-project-private/logos/logo-128.png" alt="" width="96" />
+<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-project-private/logos/logo-128.png" alt="" />
 <br />The Lupaxa Project (Private)
 </a>
 </td>
@@ -201,8 +198,8 @@ The organisations he founded, and the tools that live in them.
 
 <table>
   <tr>
-    <th align="left" valign="bottom" width="260">Organisation</th>
-    <th align="left" valign="bottom" width="2000">Description</th>
+    <th align="left" valign="bottom">Organisation</th>
+    <th align="left" valign="bottom">Description</th>
   </tr>
   <tr>
     <td valign="top"><strong>Actions Toolbox</strong></td>
