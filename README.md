@@ -206,6 +206,15 @@ In the network’s shadows, he watches over the pack, and he makes sure every op
     </td>
     <td align="center" valign="top" width="25%">
       <p></p>
+      <a href="https://github.com/lupaxa-web-toolbox">
+      <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/web-toolbox/logos/logo-256.png" alt="" width="200" />
+      <br />
+      Web Toolbox
+      </a>
+      <p></p>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <p></p>
       <a href="https://github.com/lupaxa-workstation-toolbox">
       <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/workstation-toolbox/logos/logo-256.png" alt="" width="200" />
       <br />
@@ -213,6 +222,8 @@ In the network’s shadows, he watches over the pack, and he makes sure every op
       </a>
       <p></p>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="25%">
       <p></p>
       <a href="https://github.com/the-lupaxa-blueprints">
@@ -222,8 +233,6 @@ In the network’s shadows, he watches over the pack, and he makes sure every op
       </a>
       <p></p>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="25%">
       <p></p>
       <a href="https://github.com/the-lupaxa-internal-toolbox">
@@ -251,6 +260,8 @@ In the network’s shadows, he watches over the pack, and he makes sure every op
       </a>
       <p></p>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="25%">
       <p></p>
       <a href="https://github.com/the-lupaxa-project-private">
@@ -342,6 +353,10 @@ In the network’s shadows, he watches over the pack, and he makes sure every op
   <tr>
     <td valign="top"><strong>SRE Toolbox</strong></td>
     <td valign="top">Site reliability engineering tools focused on availability, resilience and performance of production systems.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Web Toolbox</strong></td>
+    <td valign="top">Tools, libraries and utilities for website development, maintenance and analysis.</td>
   </tr>
   <tr>
     <td valign="top"><strong>Workstation Toolbox</strong></td>
